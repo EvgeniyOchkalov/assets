@@ -1,0 +1,20 @@
+[
+  {
+    "coingeckoId": "binance-peg-busd",
+    "address": "0x8516Fc284AEEaa0374E66037BD2309349FF728eA",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x4fabb145d64652a948d72533023f6e7a623c7c53.png",
+    "name": "BUSD",
+    "symbol": "BUSD Token"
+  },
+  {
+    "coingeckoId": "acmfinance",
+    "address": "0x1D25dd6A0A61F084dE0D68a0A65AC45cDB800235",
+    "chainId": 97,
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28355.png",
+    "name": "acmFinance",
+    "symbol": "ACM"
+  }
+]

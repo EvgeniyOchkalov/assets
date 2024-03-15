@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "coingeckoId": "usd-coin",
+    "address": "0xd87ba7a50b2e7e660f678a895e4b72e7cb4ccd9c",
+    "chainId": 5,
+    "decimals": 6,
+    "logoURI": "https://tokens.1inch.io/0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  }
+]

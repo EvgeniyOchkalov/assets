@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "coingeckoId": "wbnb",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png",
+    "name": "Wrapped BNB",
+    "symbol": "WBNB"
+  },
+  {
+    "coingeckoId": "weth",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png",
+    "name": "Ethereum Token",
+    "symbol": "ETH"
+  },
+  {
+    "coingeckoId": "matic-network",
+    "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png",
+    "name": "Matic Token",
+    "symbol": "MATIC"
+  },
+  {
+    "coingeckoId": "binance-bridged-usdt-bnb-smart-chain",
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xdac17f958d2ee523a2206206994597c13d831ec7.png",
+    "name": "Tether USD",
+    "symbol": "USDT"
+  },
+  {
+    "coingeckoId": "binance-bridged-usdc-bnb-smart-chain",
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  },
+  {
+    "coingeckoId": "binance-peg-dogecoin",
+    "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+    "chainId": 56,
+    "decimals": 8,
+    "logoURI": "https://tokens.1inch.io/0xba2ae424d960c26247dd6c32edc70b295c744c43.png",
+    "name": "Dogecoin",
+    "symbol": "DOGE"
+  },
+  {
+    "coingeckoId": "chainlink",
+    "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x514910771af9ca656af840dff83e8264ecf986ca.png",
+    "name": "ChainLink Token",
+    "symbol": "LINK"
+  },
+  {
+    "coingeckoId": "the-open-network",
+    "address": "0x76a797a59ba2c17726896976b7b3747bfd1d220f",
+    "chainId": 56,
+    "decimals": 9,
+    "logoURI": "https://tokens.1inch.io/0x76a797a59ba2c17726896976b7b3747bfd1d220f.png",
+    "name": "Wrapped TON Coin",
+    "symbol": "TONCOIN"
+  },
+  {
+    "coingeckoId": "dai",
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x6b175474e89094c44da98b954eedeac495271d0f.png",
+    "name": "Dai Token",
+    "symbol": "DAI"
+  },
+  {
+    "coingeckoId": "uniswap",
+    "address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984.png",
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "coingeckoId": "acmfinance",
+    "address": "0x1BD9ABF284e893705104E64B564B414620b722F1",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28355.png",
+    "name": "acmFinance",
+    "symbol": "ACM"
+  },
+  {
+    "coingeckoId": "true-usd",
+    "address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tokens.1inch.io/0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9.png",
+    "name": "TrueUSD",
+    "symbol": "TUSD"
+  }
+]
